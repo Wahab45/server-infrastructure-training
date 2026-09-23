@@ -1,1 +1,1 @@
-# server-infrastructure-training
+# Server Infrastructure Training
